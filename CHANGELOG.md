@@ -12,6 +12,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.2.2] - 2026-10-21
+
+### Fixed
+
+- Weekly updater: it now works when the folder is reached through a differently capitalised path on a Mac or Windows (it used to say the folder "sits inside a larger repository"), and a copy cloned before an upstream history rewrite is recognised and offered a safe, backed-up `node scripts/self-update.js --realign` instead of a permanent "has your own commits" warning.
+
 ## [2.2.1] - 2026-07-13
 
 ### Changed

@@ -31,3 +31,4 @@ These are the core frameworks used in every brand brain build and evaluation. Re
 | 17 | Voice Fingerprint + BRAND Score | `17-voice-fingerprint.md` | Content evaluation, AI drift detection, 100-point scoring rubric |
 | 18 | Shadow Archetype Analysis | `18-shadow-archetype.md` | Content quality control, avoiding unintended tone |
 | 19 | Role Identity Job (JTBD Brand Layer) | `19-role-identity-job.md` | ICP deepening, CTA writing, Lovemark loyalty at Level 3 |
+| 20 | Offer Architecture and Client Pathway (Ray Pang, IFP OS) | `20-offer-architecture-client-pathway.md` | Offer definition, delivery boundaries, client journey, promise wording, CTA on every content piece |

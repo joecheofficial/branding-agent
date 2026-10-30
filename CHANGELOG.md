@@ -12,6 +12,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.0] - 2026-10-30
+
+### Added
+
+- Framework 20, Offer Architecture and Client Pathway, from Ray Pang SH (Infinite Flow Point OS): one offer as the first domino, the four offer definition questions, delivery built around your capacity, the engagement container, the entry-to-continuation pathway, honest promises, and a mirror line plus one next action on every content piece.
+
 ## [2.2.2] - 2026-10-21
 
 ### Fixed
